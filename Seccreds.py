@@ -10,3 +10,5 @@ nessuse - side wala sytem ip
 
 havji : URL: http://redtiger.labs.overthewire.org/level1.php?cat=1 
 
+angry ip : 192.168.29.0 - 192.168.29.255
+
